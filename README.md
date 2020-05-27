@@ -24,17 +24,17 @@ The CTX-Nokia-NFMP module requires no optional Cortex OCIs
 
 ### Files
 The Nokia-NFMP module requires the following files:
-* [Nokia-NFMP Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Excel/releases/download/untagged-735f460df6f7d65c9d19/Cortex.Studio.Package.-.V2.3.studiopkg)
+* [Nokia-NFMP Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Nokia-NFMP/releases/download/Cortex-IA/CTX-Nokia-NFMP.studiopkg)
 
 ### Other Requisites
 The Nokia-NFMP module has the following additional requirements:
 * Connectivity to Nokia NFMP host machine
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan](#Installation).
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Nokia-NFMP/blob/master/CTX-Nokia-NFMP%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIATest/CTXExcel/blob/master/CTX-Excel%20-%20User%20Guide.docx). Configuging the subtask's inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the module, available [here](https://github.com/CortexIntelligentAutomation/CTX-Nokia-NFMP/blob/master/CTX-Nokia-NFMP%20-%20User%20Guide.pdf). Configuging the subtask's inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.

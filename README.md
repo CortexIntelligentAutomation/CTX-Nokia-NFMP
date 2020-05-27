@@ -28,7 +28,7 @@ The Nokia-NFMP module requires the following files:
 
 ### Other Requisites
 The Nokia-NFMP module has the following additional requirements:
-* Connectivity to Nokia NFMP host machine
+* Connectivity to a Nokia NFMP host machine
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Nokia-NFMP/blob/master/CTX-Nokia-NFMP%20-%20Deployment%20Plan.pdf).
